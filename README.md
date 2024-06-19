@@ -1,3 +1,6 @@
+leaderboard score : {the competition is no longer accepting submissions for evaluation}
+
+
 # Structured Semantic 3D Reconstruction
 
 ## Table of Contents
